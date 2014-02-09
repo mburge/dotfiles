@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"CMakeSnippets",
+		"EncodingHelper",
+		"Git",
+		"GitGutter",
+		"LaTeXTools",
+		"Markdown Extended",
+		"Monokai Extended",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Soda",
+		"Vintageous"
+	]
+}

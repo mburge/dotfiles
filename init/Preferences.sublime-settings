@@ -1,5 +1,4 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
 	"default_line_ending": "unix",
 	"show_line_endings": true,
 	"default_encoding": "UTF-8",
@@ -22,7 +21,6 @@
 		".git",
 		"node_modules"
 	],
-	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"line_padding_bottom": 6,
@@ -36,5 +34,27 @@
 	"tab_size": 2,
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"word_wrap": true,
+
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"font_size": 22,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+
+	"vintageous_use_ctrl_keys": true,
+	"vintageous_hlsearch": true,
+	"vintageous_incsearch": true,
+	"vintageous_enable_cmdline_mode": true,
+	"vintageous_reset_mode_when_switching_tabs": true,
+	"vintageous_autoindent": true,
+	"vintageous_use_sys_clipboard": false,
+	"vintageous_magic": true,
+	"vintageous_ignorecase": true,
+	// Fix key not repeating under OS X
+	// defaults write com.sublimetext.3 ApplePressAndHoldEnabled -bool false
+
+	"theme": "Soda Dark 3.sublime-theme"
 }
